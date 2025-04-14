@@ -1,0 +1,11 @@
+Copyright © 2024 Mónica Villarroel Concha (ArteM23chile)
+
+Todos los derechos reservados.
+
+Este proyecto y todo su contenido (código, diseño, nombre, idea, etc.) es propiedad exclusiva del autor. No se permite copiar, modificar, distribuir ni utilizar ninguna parte del mismo sin autorización previa y por escrito del autor.
+
+Queda totalmente prohibido el uso comercial o personal del proyecto sin consentimiento del propietario.
+
+Nombre del proyecto: Emovista  
+Autor original: Mónica Villarroel Concha (ArteM23chile)  
+Fecha de creación: Abril 2024
